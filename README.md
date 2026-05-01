@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ErisonBarros/agent_contagem_publico"><img src="https://img.shields.io/badge/GitHub-agent__contagem__publico-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.9%2B-blue.svg" alt="Python"/></a>
   <a href="https://ultralytics.com"><img src="https://img.shields.io/badge/YOLOv8-Ultralytics-orange.svg" alt="YOLOv8"/></a>
   <a href="https://opencv.org"><img src="https://img.shields.io/badge/OpenCV-4.x-green.svg" alt="OpenCV"/></a>
@@ -470,6 +471,7 @@ Este projeto está licenciado sob a **Licença MIT** — veja o arquivo [LICENSE
 ## 👨‍💻 Autor
 
 **Erison Barros**  
+[![GitHub](https://img.shields.io/badge/GitHub-ErisonBarros-181717?style=flat&logo=github&logoColor=white)](https://github.com/ErisonBarros)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4879--6880-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4879-6880)
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/ProfErisonBarros)
 
