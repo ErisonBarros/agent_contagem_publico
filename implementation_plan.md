@@ -24,3 +24,7 @@ O script `translate_gsd_skills.py` incluirá o mapeamento exato de todas as cerc
 
 ### Manual Verification
 - Visualizar aleatoriamente alguns arquivos (ex: `gsd-fast/SKILL.md`, `gsd-progress/SKILL.md`) para garantir que o cabeçalho YAML possui a descrição em português, mantendo a estrutura original intacta.
+
+- **Erison Barros**
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4879--6880-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4879-6880)
