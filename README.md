@@ -42,3 +42,8 @@ Armazena os arquivos de testes, simulações em Jupyter Notebook e artefatos ger
 3. **Mapeamento (Remap):** As coordenadas geradas em cada tile recortado são convertidas (somadas ao *offset*) de volta para as dimensões absolutas do mosaico global.
 4. **NMS Global (Merge):** Algoritmo *Non-Maximum Suppression* avalia o limiar *Intersection over Union* (IoU) nas áreas de sobreposição para assegurar que um mesmo indivíduo, detectado por dois tiles adjacentes, seja computado apenas uma vez.
 5. **Relatório e Análises:** O sistema ilustra as marcações na imagem, exporta as coordenadas das detecções para CSV, desenha histogramas e heatmaps de precisão e finaliza criando um Relatório Técnico autônomo formatado em Markdown.
+
+6. ## 👨‍💻 Autor
+
+**Erison Barros**
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4879--6880-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4879-6880)
