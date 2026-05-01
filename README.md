@@ -11,6 +11,7 @@
   <a href="https://opencv.org"><img src="https://img.shields.io/badge/OpenCV-4.x-green.svg" alt="OpenCV"/></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License MIT"/></a>
   <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google_Colab-Ready-F9AB00.svg?logo=googlecolab" alt="Google Colab"/></a>
+  <a href="https://linktr.ee/ProfErisonBarros"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat&logo=linktree&logoColor=white" alt="Linktree"/></a>
 </p>
 
 ---
@@ -470,6 +471,7 @@ Este projeto está licenciado sob a **Licença MIT** — veja o arquivo [LICENSE
 
 **Erison Barros**  
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4879--6880-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4879-6880)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/ProfErisonBarros)
 
 Desenvolvido como ferramenta de suporte à **perícia cartográfica e análise de multidões em imagens aéreas**.
 
