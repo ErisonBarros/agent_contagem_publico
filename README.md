@@ -46,4 +46,5 @@ Armazena os arquivos de testes, simulações em Jupyter Notebook e artefatos ger
 6. ## 👨‍💻 Autor
 
 **Erison Barros**
+
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4879--6880-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4879-6880)
